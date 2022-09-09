@@ -1,8 +1,7 @@
 """
 @author: Luis Loaysa 2022
 
-Sodinokibi decryptor. Finds Salsa20 keys in memory and decrypts
-files encrypted by Sodinokibi
+Finds Salsa20 keys in memory.
 """
 
 import re
